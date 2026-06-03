@@ -2,7 +2,7 @@
 
 # Dymas Hudzaifah
 
-**Performance Marketer · Digital Strategist · Lifelong Learner**
+**SEO Specialist · Digital Strategist · Lifelong Learner**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/dymashudzaifah)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:dymashudz@gmail.com)
@@ -21,7 +21,7 @@ Currently learning 🇨🇳 **Mandarin** to unlock a whole new ecosystem of idea
 
 ---
 
-## 🛠 Skills & Tools
+## Skills & Tools
 
 **Performance Marketing**
 `Google Ads` `Meta Ads` `Google Analytics 4` `Conversion Tracking` `CPA Optimization`
@@ -37,7 +37,7 @@ Currently learning 🇨🇳 **Mandarin** to unlock a whole new ecosystem of idea
 
 ---
 
-## 🧠 Interests
+## Interests
 
 - 📊 Performance marketing & growth strategy
 - 🧬 Neuroscience, psychology & learning science
@@ -56,7 +56,7 @@ Currently learning 🇨🇳 **Mandarin** to unlock a whole new ecosystem of idea
 
 ---
 
-## 💬 Philosophy
+## Philosophy
 
 > *Curiosity is the engine. Discipline is the fuel. The right system makes both sustainable.*
 
